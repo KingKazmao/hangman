@@ -186,7 +186,7 @@ window.onload = function () {
     // Play
     play = function () {
       categories = [
-          ["deadPool", "batman", "spider-man", "super-man"],
+          ["deadpool", "batman", "spider-man", "super-man"],
           ["alien", "dirty-harry", "gladiator", "finding-nemo", "jaws"],
           ["philadelphia", "chicago"]
       ];
