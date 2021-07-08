@@ -4,7 +4,8 @@
   "description": "I am building a hang man game to show that i for one know how to code and use the fundementals of JS/HTML/CSS# hangman # hangman",
   "main": "hangman.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hangman.js"
   },
   "repository": {
     "type": "git",
