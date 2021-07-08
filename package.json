@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "heroku": "^7.56.0"
+  },
+  "name": "hangman",
+  "description": "I am building a hang man game to show that i for one know how to code and use the fundementals of JS/HTML/CSS# hangman",
+  "version": "1.0.0",
+  "main": "hangman.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingKazmao/hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingKazmao/hangman/issues"
+  },
+  "homepage": "https://github.com/KingKazmao/hangman#readme"
+}
